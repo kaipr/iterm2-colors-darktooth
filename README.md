@@ -1,5 +1,7 @@
 # Darktooth iTerm2 Colors
 
+![](example.png)
+
 An iTerm2 color scheme based on the [emacs theme darktooth](https://github.com/emacsfodder/emacs-theme-darktooth) by [jasonm23](https://github.com/jasonm23).
 Darktooth itself is based on [gruvbox](https://github.com/Greduan/emacs-theme-gruvbox) and [soothe](https://github.com/emacsfodder/emacs-soothe-theme).
 
